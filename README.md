@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Net sales for top customers](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Net sales for top customers](https://github.com/jeybhrathi/Optimizing-Sales-Insights/blob/main/Net%20Sales%20for%20Top%2010%20Customers%20In%20Fiscal%20Year%202021.pdf)_ 
 
     **2.** Create a bar chart  _[for top 10 customers](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
