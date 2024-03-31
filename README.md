@@ -7,7 +7,7 @@
 
     **1.** Create a _[Net sales for top customers](https://github.com/jeybhrathi/Optimizing-Sales-Insights/blob/main/Net%20Sales%20for%20Top%2010%20Customers%20In%20Fiscal%20Year%202021.pdf)_ 
 
-    **2.** Create a bar chart  _[for top 10 customers](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Create a bar chart  _[for top 10 customers](https://github.com/jeybhrathi/Optimizing-Sales-Insights/blob/main/bar%20chart%20for%20top%2010%20customers.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** percentage of net sales by  _[top regions](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** percentage of net sales by  _[top regions](https://github.com/jeybhrathi/Optimizing-Sales-Insights/blob/main/top%2010%20customers%20for%20apac%20regions.pdf)_ 
 
-   **2.** Create a pie chart for  _[Each Regions](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create a pie chart for  _[Each Regions](https://github.com/jeybhrathi/Optimizing-Sales-Insights/blob/main/by%20regions%20pie%20chart.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
